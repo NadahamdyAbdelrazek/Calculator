@@ -1,5 +1,5 @@
-# calculator
-
+# simple calculator
+ 
 A new Flutter project.
 
 ## Getting Started
